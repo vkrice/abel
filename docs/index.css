@@ -1,3 +1,6 @@
 .bold {
   background-color: coral;
 }
+.link:hover {
+ color: blue; 
+}
